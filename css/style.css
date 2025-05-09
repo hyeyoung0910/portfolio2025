@@ -367,7 +367,7 @@ video {
     left: 0px;
     height: 30%;
     width: 100%;
-    background-color: #5c8e37;
+    background-color: #97b544;
     color: #333;
 }
 
@@ -392,7 +392,7 @@ video {
 .portfolio_item .portfolio_item_hover .item_info em {
     font-style: normal;
     display: inline-block;
-    background-color: #a3c34a;
+    background-color: #5c8e37;
     padding: 5px 20px;
     color: #fff;
     margin-top: 10px;
